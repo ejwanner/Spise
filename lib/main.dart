@@ -17,11 +17,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.teal,
         accentColor: Colors.teal[200],
-        canvasColor: Color.fromRGBO(255, 254, 229, 1),
+        canvasColor: Color.fromRGBO(255, 254, 229, 0.8),
         fontFamily: 'Raleway',
         textTheme: ThemeData.light().textTheme.copyWith(
               bodyText2: TextStyle(
-                color: Color.fromRGBO(20, 51, 51, 1),
+                color: Color.fromRGBO(21, 51, 56, 1),
               ),
               bodyText1: TextStyle(color: Color.fromRGBO(20, 51, 51, 1)),
               headline6: TextStyle(
