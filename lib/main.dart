@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               bodyText2: TextStyle(
                 color: Color.fromRGBO(21, 51, 56, 1),
               ),
-              bodyText1: TextStyle(color: Color.fromRGBO(20, 51, 51, 1)),
+              bodyText1: TextStyle(color: Color.fromRGBO(20, 54, 54, 1)),
               headline6: TextStyle(
                 fontSize: 20,
                 fontFamily: 'RobotoCondensed',
