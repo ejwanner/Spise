@@ -8,6 +8,7 @@ import 'screens/categories-screen.dart';
 void main() {
   runApp(MyApp());
 }
+// test here
 
 class MyApp extends StatelessWidget {
   @override
